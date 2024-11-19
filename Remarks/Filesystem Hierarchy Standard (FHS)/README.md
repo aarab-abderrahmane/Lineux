@@ -88,6 +88,8 @@
   </tr>
 </table>
 
+<a href="https://github.com/username/repository/blob/main/README.md">اضغط هنا لفتح صفحة README على GitHub</a>
+
 
 # inside : '/usr'
 <br>
@@ -369,4 +371,6 @@
     
 </body>
 </html>
+
+
 
