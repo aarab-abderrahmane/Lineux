@@ -1,4 +1,4 @@
-<img src="../images/linux-filesystem-hierarchy.png" width="550px" heighht="550px">
+<img src="../images/linux-filesystem-hierarchy.png" width="750px" heighht="750px">
 
 # /Root: the main top of all files folders in the system
 
