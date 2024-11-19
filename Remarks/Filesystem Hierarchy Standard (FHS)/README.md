@@ -93,7 +93,7 @@
 # inside : '/usr'
 
 
-<table>
+<table border="2" style="border-collapse:collapse; width:100%;">
     <tr>
         <th>Folder</th>
         <th>Description</th>
