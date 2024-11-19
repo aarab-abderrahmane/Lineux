@@ -1,4 +1,4 @@
-![FHS](../images/linux-filesystem-hierarchy.png)
+<img src="../images/linux-filesystem-hierarchy.png">
 
 # /Root: the main top of all files folders in the system
 
