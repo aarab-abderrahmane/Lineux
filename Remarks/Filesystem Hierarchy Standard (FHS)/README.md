@@ -1,4 +1,4 @@
-<img src="../images/linux-filesystem-hierarchy.png" width="750px" height="450px" alt="Linux Filesystem Hierarchy">
+<img src="../images/linux-filesystem-hierarchy.png" width="750%" height="450%" alt="Linux Filesystem Hierarchy">
 
 
 ***
@@ -91,3 +91,41 @@
 ##
 
 # inside : '/usr'
+
+
+<table>
+    <tr>
+        <th>Folder</th>
+        <th>Description</th>
+        <th>Exemple</th>
+        <th>Fulle name</th>
+    </tr>
+    <tr>
+        <td>/usr/bin</td>
+        <td>Contains commands for normal users</td>
+        <td> ___ </td>
+        <td>Unix System Resources / Binaries</td>
+    </tr>
+    
+    <tr>
+        <td>/usr/local</td>
+        <td>A place ro install software added manually by the user</td>
+        <td> ___ </td>
+        <td>Lacal Resources</td>
+    </tr>
+
+    <tr>
+        <td>/usr/sbin</td>
+        <td>Conatins additional management commands for administrators</td>
+        <td> ___ </td>
+        <td>.../System Binaries</td>
+    </tr>
+
+    <tr>
+        <td>/usr/include</td>
+        <td>Contains software developmant files</td>
+        <td>C header files</td>
+        <td> ___ </td>
+    </tr>
+
+</table>
