@@ -1,3 +1,5 @@
+![FHS](../images/linux-filesystem-hierarchy.png)
+
 # /Root: the main top of all files folders in the system
 
 <table border="2" style="border-collapse:collapse; width:100%;">
