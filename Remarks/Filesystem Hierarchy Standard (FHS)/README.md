@@ -97,35 +97,32 @@
     <tr>
         <th>Folder</th>
         <th>Description</th>
-        <th>Exemple</th>
-        <th>Fulle name</th>
+        <th>Example</th>
+        <th>Full name</th>
     </tr>
     <tr>
         <td>/usr/bin</td>
         <td>Contains commands for normal users</td>
-        <td> ___ </td>
+        <td>___</td>
         <td>Unix System Resources / Binaries</td>
     </tr>
-    
     <tr>
         <td>/usr/local</td>
-        <td>A place ro install software added manually by the user</td>
-        <td> ___ </td>
-        <td>Lacal Resources</td>
+        <td>A place to install software added manually by the user</td>
+        <td>___</td>
+        <td>Local Resources</td>
     </tr>
-
     <tr>
         <td>/usr/sbin</td>
-        <td>Conatins additional management commands for administrators</td>
-        <td> ___ </td>
+        <td>Contains additional management commands for administrators</td>
+        <td>___</td>
         <td>.../System Binaries</td>
     </tr>
-
     <tr>
         <td>/usr/include</td>
-        <td>Contains software developmant files</td>
+        <td>Contains software development files</td>
         <td>C header files</td>
-        <td> ___ </td>
+        <td>___</td>
     </tr>
-
 </table>
+
