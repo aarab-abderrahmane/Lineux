@@ -1,4 +1,4 @@
-<img src="../images/linux-filesystem-hierarchy.png" width="750px" height="750px" alt="Linux Filesystem Hierarchy">
+<img src="../images/linux-filesystem-hierarchy.png" width="750px" height="650px" alt="Linux Filesystem Hierarchy">
 
 
 
