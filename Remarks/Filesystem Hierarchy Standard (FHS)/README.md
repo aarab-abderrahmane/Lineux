@@ -1,7 +1,8 @@
 <img src="../images/linux-filesystem-hierarchy.png" width="750px" height="450px" alt="Linux Filesystem Hierarchy">
 
-
+<br>
 ***
+<br>
 
 # inside : '/root'  
 **/Root**: the main top of all files folders in the system
