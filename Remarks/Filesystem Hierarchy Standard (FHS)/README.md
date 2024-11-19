@@ -162,16 +162,12 @@
     </tr>
 </table>
 
-<a href="https://github.com/username/repository/blob/main/README.md](https://github.com/aarab-abderrahmane/Lineux/blob/main/Remarks/Filesystem%20Hierarchy%20Standard%20(FHS)/FHS.html">GO TO THE HTML FILE</a>
+<a href="https://github.com/aarab-abderrahmane/Lineux/blob/main/Remarks/Filesystem%20Hierarchy%20Standard%20(FHS)/FHS.html">GO TO THE HTML FILE</a>
 
 ***
 **code HTML/css**
 ```bash
 https://github.com/aarab-abderrahmane/Lineux/blob/main/Remarks/Filesystem%20Hierarchy%20Standard%20(FHS)/FHS.html
-
-    
-</body>
-</html>
 
 
 
