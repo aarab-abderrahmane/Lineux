@@ -132,38 +132,35 @@
     <tr>
         <th>Folder</th>
         <th>Description</th>
-        <th>Exemple</th>
-        <th>Fulle name</th>
+        <th>Example</th>
+        <th>Full name</th>
     </tr>
-
     <tr>
         <td>/var/tmp</td>
         <td>Temporary files take longer to delete</td>
-        <td> ___ </td>
-        <td> ___ </td>
+        <td>___</td>
+        <td>___</td>
     </tr>
-
     <tr>
         <td>/var/log</td>
         <td>Contains log files record system events</td>
-        <td> ___ </td>
-        <td> ___ </td>
+        <td>___</td>
+        <td>___</td>
     </tr>
-
     <tr>
         <td>/var/cache</td>
         <td>Contains stored data to improve performance and speed of application</td>
-        <td> ___ </td>
-        <td>.../Cash Storage</td>
+        <td>___</td>
+        <td>.../Cache Storage</td>
     </tr>
-
     <tr>
         <td>/var/spool</td>
         <td>Contains files waiting to be processed</td>
         <td>print files</td>
-        <td> ___ </td>
+        <td>___</td>
     </tr>
 </table>
+
 
 ```bash
 sudo apt update && sudo apt upgrade
